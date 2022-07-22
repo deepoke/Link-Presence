@@ -1,8 +1,0 @@
-framework module link {
-    umbrella header "link.h"
-
-    export *
-    module * { export * }
-
-    use Foundation
-}
